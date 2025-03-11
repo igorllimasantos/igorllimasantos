@@ -1,17 +1,15 @@
-#  Igor Lima 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
 **`Desenvolvedor FullStack`**
 
 Igor Lima dos Santos, 26 anos, residente em Fortaleza-CE, busca consolidar minha carreira como desenvolvedor Full Stack. Graduando em Análise e Desenvolvimento de Sistemas, participo ativamente da Residência em TIC 20 e do Geração Tech 2.0, buscando constante aprimoramento tecnico :)
+## 📫 Contato
 
-<p align="left">
-    <a href="">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
 ---
 
