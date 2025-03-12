@@ -80,6 +80,8 @@ Igor Lima dos Santos, 26 anos, residente em Fortaleza-CE, busca consolidar minha
 
 </p>
 
-<img src="https://raw.githubusercontent.com/igorllimasantos/igorllimasantos/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Projetos</h3>
+
+###
 
 ###
