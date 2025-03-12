@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Igor Lima dos Santos, 26 anos, residente em Fortaleza-CE, busca consolidar minha carreira como desenvolvedor Full Stack. Graduando em Análise e Desenvolvimento de Sistemas, participo ativamente da Residência em TIC 20 e do Geração Tech 2.0, buscando constante aprimoramento tecnico :)
+Igor Lima dos Santos, 26 anos, residente em Fortaleza-CE, busca consolidar minha carreira como desenvolvedor Full Stack. Graduando em Análise e Desenvolvimento de Sistemas, participo ativamente da Residência   [TIC-20](https://www.uece.br/agin/projetos/residencia-em-tic-20-capacita-brasil-c-jovem/). e [Geração tech 2.0](https://www.uece.br/agin/projetos/residencia-em-tic-20-capacita-brasil-c-jovem/) , buscando constante aprimoramento tecnico :)
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
