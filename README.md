@@ -1,15 +1,23 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-**`Desenvolvedor FullStack`**
 
 Igor Lima dos Santos, 26 anos, residente em Fortaleza-CE, busca consolidar minha carreira como desenvolvedor Full Stack. Graduando em Análise e Desenvolvimento de Sistemas, participo ativamente da Residência   [TIC-20](https://www.uece.br/agin/projetos/residencia-em-tic-20-capacita-brasil-c-jovem/). e [Geração tech 2.0](https://www.uece.br/agin/projetos/residencia-em-tic-20-capacita-brasil-c-jovem/) , buscando constante aprimoramento tecnico :)
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+<div> 
+ 
+ <a href="https://discord.com/channels/@me/1343696965757833329" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:igorslcontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-lima-dos-santos-9200b6356/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 
